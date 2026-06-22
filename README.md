@@ -17,6 +17,15 @@ Year: 2026
 <br>
 <br>
 
+| File | Description |
+|------|-------------|
+| `prc_hicp_minr__custom_21750876_linear` | Eurostat HICP dataset formed of indexes and annual rate of change - 2006 - April 2026  |
+| `sts_inpp_m__custom_21751016_linear` | Eurostat PPI Main Industrial Groupings dataset formed of indexes and percentage change compared to same period in previous year - 2006 - April 2026  |
+
+
+<br>
+<br>
+
 This project has no license applied at the moment.
 
 All rights reserved until the public defense of the dissertation.
